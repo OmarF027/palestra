@@ -1,0 +1,2 @@
+# Palestra:
+Portale moderno per palestra specializzata in pilates, yoga e crossfit. Presenta corsi, orari e contatti con un design pulito e navigazione intuitiva. Sviluppato con HTML, CSS, Javascript e Bootstrap.
